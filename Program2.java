@@ -1,4 +1,4 @@
-class Program1 {
+class Program2 {
   static void sum( int num1, float num2 ){  // 2 method parameters
     float result = num1 + num2;
     System.out.println("Result  : "+result);
