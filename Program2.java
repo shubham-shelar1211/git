@@ -9,6 +9,6 @@ class Program2 {
   }
   public static void main(String[] args) {
     Program.sum( 10, 20.2f );
-    Program.sum( 10.1f, 20 );
+    Program.sum( 10.1f, 21 );
   }  
 }
